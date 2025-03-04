@@ -13,7 +13,7 @@ This is a real-time chat application built using **React (TypeScript) & WebSocke
 
 ## 📸 Screenshot
 
-![Chat App](public/chat-app.png)
+![Chat App](https://github.com/prasenjit200/chat-application/blob/master/Screenshot%20(45).png)
 
 ---
 
