@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from "react";
 
-const socket = new WebSocket("ws://localhost:8080");
+const socket = new WebSocket("https://chat-application-np8n.onrender.com");
 
 interface Message {
   text: string;
